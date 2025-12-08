@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-A modern, responsive admin dashboard built with Next.js 14, Material-UI, Zustand, and NextAuth.
+A modern, responsive admin dashboard built with Next.js 16, Material-UI, Zustand, and NextAuth.
 
 ## Features
 
@@ -14,7 +14,7 @@ A modern, responsive admin dashboard built with Next.js 14, Material-UI, Zustand
 
 ## Tech Stack
 
-- **Framework:** Next.js 14 (App Router)
+- **Framework:** Next.js 16 (App Router)
 - **UI Library:** Material-UI (MUI)
 - **State Management:** Zustand
 - **Authentication:** NextAuth.js
